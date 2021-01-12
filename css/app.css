@@ -3,6 +3,10 @@
   float: center;
   columns: center;
   background-color: yellow;
+  box-sizing: border-box;
+  margin: 5px;
+  padding: 2em;
+
   }
 
   h1 {
